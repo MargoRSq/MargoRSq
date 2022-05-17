@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MargoRSq
+- 👋 Hi, I’m Svyatoslav
 - 👀 I’m interested in Python Backend development.
 - 🌱 I’m currently learning Clang.
 - 💞️ I’m looking to collaborate on something ;3
