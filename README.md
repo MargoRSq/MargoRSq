@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Svyatoslav
-- 👀 I’m interested in Python Backend development.
-- 🌱 I’m currently learning Clang.
+- 👀 I’m interested in Backend development.
+- 🌱 I’m currently learning Golang and C.
 - 💞️ I’m looking to collaborate on something ;3
 - 📫 How to reach me: idk
 
