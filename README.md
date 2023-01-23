@@ -5,5 +5,7 @@
     <img style="width:18%" src="https://www.svgrepo.com/show/331553/python-package-index.svg" alt="Girl in a jacket">
 </div>
 
-<h3 style="text-align: center;">👋 Hi, I'm Svyatoslav, 20something yo Backend Developer 🚀</h3>
+<div align="center">
+    <h3>👋 Hi, I'm Svyatoslav, 20something yo Backend Developer 🚀</h3>
+</div>
 
